@@ -1,0 +1,2 @@
+# Ignore all .exe files generated from running C++ code
+*.exe
